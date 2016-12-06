@@ -1,0 +1,9 @@
+[package]
+authors = ["Walther Chen <walther.chen@gmail.com>"]
+name = "geta"
+version = "0.1.0"
+
+[dependencies]
+gnuplot = "0.0.21"
+ndarray = "0.7.1"
+rand = "0.3.15"
